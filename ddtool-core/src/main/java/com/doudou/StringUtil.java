@@ -60,6 +60,8 @@ public class StringUtil {
         return var1;
     }
 
-
+    public static void main(String[] args) {
+        System.out.println("zhangyan is handsome!");
+    }
 
 }
